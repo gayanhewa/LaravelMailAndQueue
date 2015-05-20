@@ -19,7 +19,7 @@ use Monolog\Logger;
 use Illuminate\Queue\Capsule\Manager as Queue;
 
 /** 
-    Most of the code below is reused from a few implementation. 
+    Most of the code below is reused from a few implementations. 
     Implemntation of the worker can be found here : https://github.com/mattstauffer/IlluminateNonLaravel/blob/master/public/queue/index.php
 **/
 
