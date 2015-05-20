@@ -1,0 +1,23 @@
+{
+    "name": "gayan/laravel-mail-and-queue",
+    "description": "Using illuminate mail component outside Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gayan Hewa",
+            "email": "gayanhewa@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/mail": "^5.0",
+        "illuminate/queue": "^5.0",
+        "illuminate/container": "^5.0",
+        "illuminate/log": "^5.0",
+        "illuminate/view": "^5.0",
+        "swiftmailer/swiftmailer": "^5.4",
+        "illuminate/events": "^5.0",
+        "illuminate/encryption": "^5.0",
+        "aws/aws-sdk-php": "^2.8",
+        "jeremeamia/SuperClosure": "^2.1"
+    }
+}
